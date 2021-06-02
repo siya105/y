@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+    background-color: cornsilk;
+}
+
+#map iframe {
+    width: 90%;
+    border: 15px;
+    border-color: black;
+}
+
+#marqueeStyle {
+    width: 100%;
+    direction: left;
+    font-size: 25px;
+}
+
+#img1 {
+    text-align: center;
+    border-radius: 30px;
+    height: 50%;
+    width: 100%;
+}
+
+#on{
+    border: 10px solid black;
+    border-radius: 30px;
+}
+
+#sp{
+    border: 10px solid black;
+    border-radius: 30px;
+}
